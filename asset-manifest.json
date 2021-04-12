@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/manya-automator/static/css/main.b9194a94.chunk.css",
-    "main.js": "/manya-automator/static/js/main.e1842d5c.chunk.js",
-    "main.js.map": "/manya-automator/static/js/main.e1842d5c.chunk.js.map",
+    "main.js": "/manya-automator/static/js/main.39321a0b.chunk.js",
+    "main.js.map": "/manya-automator/static/js/main.39321a0b.chunk.js.map",
     "runtime-main.js": "/manya-automator/static/js/runtime-main.ab8f63fb.js",
     "runtime-main.js.map": "/manya-automator/static/js/runtime-main.ab8f63fb.js.map",
     "static/css/2.a2ab3232.chunk.css": "/manya-automator/static/css/2.a2ab3232.chunk.css",
-    "static/js/2.808b0dc4.chunk.js": "/manya-automator/static/js/2.808b0dc4.chunk.js",
-    "static/js/2.808b0dc4.chunk.js.map": "/manya-automator/static/js/2.808b0dc4.chunk.js.map",
+    "static/js/2.d3d6e921.chunk.js": "/manya-automator/static/js/2.d3d6e921.chunk.js",
+    "static/js/2.d3d6e921.chunk.js.map": "/manya-automator/static/js/2.d3d6e921.chunk.js.map",
     "index.html": "/manya-automator/index.html",
     "static/css/2.a2ab3232.chunk.css.map": "/manya-automator/static/css/2.a2ab3232.chunk.css.map",
     "static/css/main.b9194a94.chunk.css.map": "/manya-automator/static/css/main.b9194a94.chunk.css.map",
-    "static/js/2.808b0dc4.chunk.js.LICENSE.txt": "/manya-automator/static/js/2.808b0dc4.chunk.js.LICENSE.txt"
+    "static/js/2.d3d6e921.chunk.js.LICENSE.txt": "/manya-automator/static/js/2.d3d6e921.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab8f63fb.js",
     "static/css/2.a2ab3232.chunk.css",
-    "static/js/2.808b0dc4.chunk.js",
+    "static/js/2.d3d6e921.chunk.js",
     "static/css/main.b9194a94.chunk.css",
-    "static/js/main.e1842d5c.chunk.js"
+    "static/js/main.39321a0b.chunk.js"
   ]
 }
