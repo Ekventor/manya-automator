@@ -1,0 +1,2 @@
+.vertical-center{display:flex;align-items:center}.horizontal-center{display:flex;justify-content:center}.groups{display:flex;flex-direction:column}.group{margin-bottom:.5em;width:100vw}.group__info{height:75px;flex-direction:row;font-size:.7em}.shadow{-webkit-filter:drop-shadow(0 0 3px rgba(0,0,0,.5));filter:drop-shadow(0 0 3px rgba(0,0,0,.5))}.icon{width:50px;height:50px;border-radius:50%;background-size:auto 50px}
+/*# sourceMappingURL=main.dd555437.chunk.css.map */
