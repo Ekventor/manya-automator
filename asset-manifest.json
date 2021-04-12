@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-vk-app/static/css/main.b9194a94.chunk.css",
+    "main.js": "/test-vk-app/static/js/main.04693772.chunk.js",
+    "main.js.map": "/test-vk-app/static/js/main.04693772.chunk.js.map",
+    "runtime-main.js": "/test-vk-app/static/js/runtime-main.5efe28de.js",
+    "runtime-main.js.map": "/test-vk-app/static/js/runtime-main.5efe28de.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/test-vk-app/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.dcf54f6e.chunk.js": "/test-vk-app/static/js/2.dcf54f6e.chunk.js",
+    "static/js/2.dcf54f6e.chunk.js.map": "/test-vk-app/static/js/2.dcf54f6e.chunk.js.map",
+    "index.html": "/test-vk-app/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/test-vk-app/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.b9194a94.chunk.css.map": "/test-vk-app/static/css/main.b9194a94.chunk.css.map",
+    "static/js/2.dcf54f6e.chunk.js.LICENSE.txt": "/test-vk-app/static/js/2.dcf54f6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5efe28de.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.dcf54f6e.chunk.js",
+    "static/css/main.b9194a94.chunk.css",
+    "static/js/main.04693772.chunk.js"
+  ]
+}
